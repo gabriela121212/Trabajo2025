@@ -1,9 +1,9 @@
-# Materias aprobadas
+# Materias Por Aprobar
 
-Ingieneria de requisitos
-Plataformas web
-Base de datos
-Practica 2.2
+- Ingeniería de Requisitos
+- Plataformas Web
+- Base de Datos
+- Práctica 2.2
 
 ## Learn more
 

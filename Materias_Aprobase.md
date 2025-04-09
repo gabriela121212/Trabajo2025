@@ -1,9 +1,9 @@
-# Materias aprobadas
+# Materias Aprobadas
 
-Estadistica
-Ingieneria web
-Sistemas Operativos
-Practica 1.1
+- Estadística
+- Ingeniería Web
+- Sistemas Operativos
+- Práctica 1.1
 
 ## Learn more
 
